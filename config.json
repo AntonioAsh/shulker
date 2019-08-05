@@ -2,7 +2,7 @@
     "PORT": 8000,
 
     "USE_WEBHOOKS": true,
-    "WEBHOOK_URL": "DISCORD_WEBHOOK_URL_HERE",
+    "WEBHOOK_URL": "https://discordapp.com/api/webhooks/608028604814721025/fQKPHNOGQeiyz9W4LuD5HkV1Ovc45yiNxmlXfh8XfMlVr-EdZvm94as4QNuAfBjh7c5I",
     "DISCORD_TOKEN": "TOKEN_HERE",
     "DISCORD_CHANNEL_ID": "1234",
     "DISCORD_MESSAGE_TEMPLATE": "`%username%`: %message%",
